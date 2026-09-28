@@ -1,0 +1,13 @@
+{
+  "name": "my-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "My 24/7 WhatsApp group bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest"
+  }
+}
